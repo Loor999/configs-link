@@ -8,8 +8,8 @@ warp://auto6
 warp://162.159.195.46:7156?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m3#m3
 warp://162.159.192.11:968?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#m4
 warp://162.159.195.96:968?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m5#m5
-
-
+warp://188.114.97.42:7156?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m6#m6
+warp://162.159.195.96:967?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m7#m7
 
 
 
